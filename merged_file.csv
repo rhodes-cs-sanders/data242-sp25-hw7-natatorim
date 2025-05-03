@@ -1,0 +1,304 @@
+StudentID,Major,ClassYear,GPA_Sem1,GPA_Sem2,Credits_Enrolled,Hours_Study,AttendanceRate,Scholarship,GPA_change,StudentIntensity,AttendanceFlag,Activity,HoursPerWeek,LeadershipRole
+1003,Economics,Senior,3.23,3.23,15,33.0,0.89,No,0.0,2.2,False,Intramural Sports,11,No
+1003,Economics,Senior,3.23,3.23,15,33.0,0.89,No,0.0,2.2,False,Debate Team,1,No
+1004,English,Sophomore,2.96,2.85,16,14.0,0.93,Yes,-0.10999999999999988,0.875,True,Debate Team,5,No
+1007,Economics,Sophomore,3.09,2.33,18,7.0,0.95,No,-0.7599999999999998,0.3888888888888889,True,Student Government,2,No
+1007,Economics,Sophomore,3.09,2.33,18,7.0,0.95,No,-0.7599999999999998,0.3888888888888889,True,Debate Team,13,No
+1007,Economics,Sophomore,3.09,2.33,18,7.0,0.95,No,-0.7599999999999998,0.3888888888888889,True,Music Club,14,No
+1008,Economics,Junior,2.96,3.04,13,10.0,0.83,No,0.08000000000000007,0.7692307692307693,False,Intramural Sports,15,Yes
+1010,English,Sophomore,3.64,4.0,12,9.0,0.77,Yes,0.3599999999999999,0.75,False,Debate Team,11,No
+1011,Psychology,Freshman,4.0,3.83,13,27.0,0.97,Yes,-0.16999999999999993,2.076923076923077,True,Intramural Sports,11,No
+1011,Psychology,Freshman,4.0,3.83,13,27.0,0.97,Yes,-0.16999999999999993,2.076923076923077,True,Community Service,2,No
+1011,Psychology,Freshman,4.0,3.83,13,27.0,0.97,Yes,-0.16999999999999993,2.076923076923077,True,Undergrad Research,6,No
+1014,Biology,Freshman,3.41,3.76,17,24.0,0.86,No,0.34999999999999964,1.411764705882353,False,Undergrad Research,5,No
+1014,Biology,Freshman,3.41,3.76,17,24.0,0.86,No,0.34999999999999964,1.411764705882353,False,Debate Team,12,Yes
+1014,Biology,Freshman,3.41,3.76,17,24.0,0.86,No,0.34999999999999964,1.411764705882353,False,Intramural Sports,11,Yes
+1015,Psychology,Sophomore,4.0,2.4,13,39.0,0.91,No,-1.6,3.0,True,Undergrad Research,10,No
+1018,English,Sophomore,3.82,3.08,15,28.0,0.77,No,-0.7399999999999998,1.8666666666666667,False,Student Government,2,No
+1018,English,Sophomore,3.82,3.08,15,28.0,0.77,No,-0.7399999999999998,1.8666666666666667,False,Undergrad Research,11,Yes
+1018,English,Sophomore,3.82,3.08,15,28.0,0.77,No,-0.7399999999999998,1.8666666666666667,False,Music Club,11,Yes
+1019,Computer Science,Sophomore,3.34,2.63,17,7.0,0.77,No,-0.71,0.4117647058823529,False,Student Government,3,No
+1019,Computer Science,Sophomore,3.34,2.63,17,7.0,0.77,No,-0.71,0.4117647058823529,False,Community Service,13,Yes
+1021,Biology,Junior,3.44,2.37,12,39.0,0.79,Yes,-1.0699999999999998,3.25,False,Student Government,9,Yes
+1021,Biology,Junior,3.44,2.37,12,39.0,0.79,Yes,-1.0699999999999998,3.25,False,Music Club,7,No
+1021,Biology,Junior,3.44,2.37,12,39.0,0.79,Yes,-1.0699999999999998,3.25,False,Undergrad Research,3,No
+1022,English,Senior,3.61,3.19,14,17.0,0.97,No,-0.41999999999999993,1.2142857142857142,True,Music Club,9,No
+1022,English,Senior,3.61,3.19,14,17.0,0.97,No,-0.41999999999999993,1.2142857142857142,True,Intramural Sports,1,No
+1025,Computer Science,Senior,3.39,3.68,14,8.0,0.83,Yes,0.29000000000000004,0.5714285714285714,False,Undergrad Research,4,No
+1028,Biology,Freshman,3.38,3.56,16,15.0,0.91,No,0.18000000000000016,0.9375,True,Undergrad Research,7,No
+1028,Biology,Freshman,3.38,3.56,16,15.0,0.91,No,0.18000000000000016,0.9375,True,Community Service,14,No
+1028,Biology,Freshman,3.38,3.56,16,15.0,0.91,No,0.18000000000000016,0.9375,True,Debate Team,13,Yes
+1029,Psychology,Sophomore,2.74,3.2,14,7.0,0.87,No,0.45999999999999996,0.5,False,Undergrad Research,4,No
+1032,Psychology,Senior,2.92,3.43,12,13.0,0.81,No,0.5100000000000002,1.0833333333333333,False,Music Club,10,No
+1033,Psychology,Senior,3.03,3.31,14,7.0,1.0,No,0.28000000000000025,0.5,True,Intramural Sports,4,Yes
+1034,Computer Science,Senior,3.16,3.91,18,29.0,0.99,No,0.75,1.6111111111111112,True,Community Service,11,Yes
+1034,Computer Science,Senior,3.16,3.91,18,29.0,0.99,No,0.75,1.6111111111111112,True,Undergrad Research,9,Yes
+1034,Computer Science,Senior,3.16,3.91,18,29.0,0.99,No,0.75,1.6111111111111112,True,Intramural Sports,1,Yes
+1035,Economics,Senior,2.58,3.7,14,38.0,0.91,Yes,1.12,2.7142857142857144,True,Student Government,2,No
+1035,Economics,Senior,2.58,3.7,14,38.0,0.91,Yes,1.12,2.7142857142857144,True,Intramural Sports,9,No
+1037,Economics,Junior,2.74,2.84,13,13.0,0.92,No,0.09999999999999964,1.0,True,Community Service,5,No
+1037,Economics,Junior,2.74,2.84,13,13.0,0.92,No,0.09999999999999964,1.0,True,Undergrad Research,8,No
+1039,Computer Science,Senior,2.75,3.29,18,29.0,0.76,No,0.54,1.6111111111111112,False,Music Club,3,No
+1040,Biology,Freshman,3.71,3.88,17,9.0,0.81,No,0.16999999999999993,0.5294117647058824,False,Intramural Sports,3,Yes
+1040,Biology,Freshman,3.71,3.88,17,9.0,0.81,No,0.16999999999999993,0.5294117647058824,False,Community Service,12,No
+1041,Psychology,Senior,3.19,3.59,17,15.0,0.87,No,0.3999999999999999,0.8823529411764706,False,Debate Team,7,No
+1041,Psychology,Senior,3.19,3.59,17,15.0,0.87,No,0.3999999999999999,0.8823529411764706,False,Community Service,8,No
+1041,Psychology,Senior,3.19,3.59,17,15.0,0.87,No,0.3999999999999999,0.8823529411764706,False,Intramural Sports,14,No
+1042,Computer Science,Senior,2.51,3.51,16,38.0,0.97,Yes,1.0,2.375,True,Intramural Sports,10,No
+1042,Computer Science,Senior,2.51,3.51,16,38.0,0.97,Yes,1.0,2.375,True,Debate Team,2,Yes
+1043,Psychology,Junior,2.78,3.21,12,28.0,0.93,Yes,0.43000000000000016,2.3333333333333335,True,Debate Team,13,Yes
+1043,Psychology,Junior,2.78,3.21,12,28.0,0.93,Yes,0.43000000000000016,2.3333333333333335,True,Music Club,3,No
+1044,Biology,Junior,3.73,2.85,13,19.0,0.94,No,-0.8799999999999999,1.4615384615384615,True,Music Club,14,Yes
+1044,Biology,Junior,3.73,2.85,13,19.0,0.94,No,-0.8799999999999999,1.4615384615384615,True,Community Service,9,No
+1044,Biology,Junior,3.73,2.85,13,19.0,0.94,No,-0.8799999999999999,1.4615384615384615,True,Undergrad Research,10,No
+1045,Biology,Sophomore,3.38,3.12,15,12.0,0.86,No,-0.2599999999999998,0.8,False,Intramural Sports,5,No
+1046,Computer Science,Junior,3.17,3.39,18,9.0,0.84,Yes,0.2200000000000002,0.5,False,Student Government,15,No
+1046,Computer Science,Junior,3.17,3.39,18,9.0,0.84,Yes,0.2200000000000002,0.5,False,Debate Team,8,Yes
+1046,Computer Science,Junior,3.17,3.39,18,9.0,0.84,Yes,0.2200000000000002,0.5,False,Music Club,4,No
+1047,Biology,Sophomore,2.31,2.51,15,30.0,0.84,Yes,0.19999999999999973,2.0,False,Debate Team,8,No
+1048,English,Sophomore,3.76,3.7,14,22.0,1.0,Yes,-0.05999999999999961,1.5714285714285714,True,Debate Team,4,Yes
+1050,Psychology,Sophomore,3.88,2.42,15,17.0,0.97,Yes,-1.46,1.1333333333333333,True,Music Club,15,Yes
+1050,Psychology,Sophomore,3.88,2.42,15,17.0,0.97,Yes,-1.46,1.1333333333333333,True,Community Service,14,No
+1050,Psychology,Sophomore,3.88,2.42,15,17.0,0.97,Yes,-1.46,1.1333333333333333,True,Undergrad Research,13,No
+1053,Psychology,Junior,3.4,2.97,17,17.0,0.93,Yes,-0.4299999999999997,1.0,True,Debate Team,6,No
+1053,Psychology,Junior,3.4,2.97,17,17.0,0.93,Yes,-0.4299999999999997,1.0,True,Undergrad Research,9,No
+1055,Economics,Senior,3.27,3.17,16,36.0,0.97,No,-0.10000000000000009,2.25,True,Community Service,7,Yes
+1055,Economics,Senior,3.27,3.17,16,36.0,0.97,No,-0.10000000000000009,2.25,True,Intramural Sports,5,No
+1058,Biology,Sophomore,2.76,3.39,12,38.0,0.82,Yes,0.6300000000000003,3.1666666666666665,False,Debate Team,3,No
+1058,Biology,Sophomore,2.76,3.39,12,38.0,0.82,Yes,0.6300000000000003,3.1666666666666665,False,Music Club,15,No
+1059,Psychology,Freshman,2.85,2.98,13,31.0,0.9,No,0.1299999999999999,2.3846153846153846,True,Intramural Sports,13,No
+1062,Psychology,Senior,2.3,2.7,12,10.0,0.91,No,0.40000000000000036,0.8333333333333334,True,Community Service,11,Yes
+1062,Psychology,Senior,2.3,2.7,12,10.0,0.91,No,0.40000000000000036,0.8333333333333334,True,Student Government,9,No
+1064,Biology,Senior,3.17,3.34,12,23.0,0.93,Yes,0.16999999999999993,1.9166666666666667,True,Undergrad Research,11,No
+1064,Biology,Senior,3.17,3.34,12,23.0,0.93,Yes,0.16999999999999993,1.9166666666666667,True,Intramural Sports,4,No
+1069,Psychology,Senior,3.24,2.97,13,29.0,0.81,No,-0.27,2.230769230769231,False,Student Government,6,No
+1069,Psychology,Senior,3.24,2.97,13,29.0,0.81,No,-0.27,2.230769230769231,False,Music Club,1,No
+1069,Psychology,Senior,3.24,2.97,13,29.0,0.81,No,-0.27,2.230769230769231,False,Intramural Sports,7,No
+1070,Psychology,Junior,3.31,2.93,12,40.0,0.99,No,-0.3799999999999999,3.3333333333333335,True,Debate Team,10,Yes
+1071,Computer Science,Senior,2.66,3.5,18,31.0,0.8,Yes,0.8399999999999999,1.7222222222222223,False,Music Club,2,No
+1071,Computer Science,Senior,2.66,3.5,18,31.0,0.8,Yes,0.8399999999999999,1.7222222222222223,False,Intramural Sports,9,Yes
+1071,Computer Science,Senior,2.66,3.5,18,31.0,0.8,Yes,0.8399999999999999,1.7222222222222223,False,Undergrad Research,10,No
+1072,English,Junior,1.85,3.3,14,11.0,0.96,No,1.4499999999999997,0.7857142857142857,True,Intramural Sports,1,No
+1072,English,Junior,1.85,3.3,14,11.0,0.96,No,1.4499999999999997,0.7857142857142857,True,Music Club,4,No
+1072,English,Junior,1.85,3.3,14,11.0,0.96,No,1.4499999999999997,0.7857142857142857,True,Debate Team,11,No
+1073,English,Senior,3.65,3.53,14,9.0,0.87,No,-0.1200000000000001,0.6428571428571429,False,Community Service,6,No
+1073,English,Senior,3.65,3.53,14,9.0,0.87,No,-0.1200000000000001,0.6428571428571429,False,Undergrad Research,15,No
+1074,Biology,Freshman,4.0,2.52,13,35.0,0.81,Yes,-1.48,2.6923076923076925,False,Music Club,4,No
+1074,Biology,Freshman,4.0,2.52,13,35.0,0.81,Yes,-1.48,2.6923076923076925,False,Community Service,15,No
+1074,Biology,Freshman,4.0,2.52,13,35.0,0.81,Yes,-1.48,2.6923076923076925,False,Student Government,8,Yes
+1075,English,Senior,3.06,3.0,16,27.0,0.97,No,-0.06000000000000005,1.6875,True,Intramural Sports,7,No
+1077,Computer Science,Senior,3.33,3.42,15,36.0,0.88,No,0.08999999999999986,2.4,False,Student Government,1,Yes
+1077,Computer Science,Senior,3.33,3.42,15,36.0,0.88,No,0.08999999999999986,2.4,False,Music Club,10,No
+1078,Psychology,Senior,3.87,3.32,14,34.0,0.84,Yes,-0.5500000000000003,2.4285714285714284,False,Music Club,14,No
+1079,Psychology,Sophomore,3.56,3.48,17,35.0,0.9,No,-0.08000000000000007,2.0588235294117645,True,Student Government,2,No
+1084,English,Junior,3.05,2.55,16,17.0,0.91,No,-0.5,1.0625,True,Student Government,6,No
+1084,English,Junior,3.05,2.55,16,17.0,0.91,No,-0.5,1.0625,True,Music Club,4,Yes
+1085,Computer Science,Senior,3.55,2.9,15,33.0,0.83,Yes,-0.6499999999999999,2.2,False,Undergrad Research,1,No
+1087,Computer Science,Freshman,3.22,3.3,14,6.0,0.78,Yes,0.07999999999999963,0.42857142857142855,False,Intramural Sports,10,Yes
+1087,Computer Science,Freshman,3.22,3.3,14,6.0,0.78,Yes,0.07999999999999963,0.42857142857142855,False,Community Service,4,No
+1087,Computer Science,Freshman,3.22,3.3,14,6.0,0.78,Yes,0.07999999999999963,0.42857142857142855,False,Music Club,3,No
+1088,Computer Science,Senior,2.73,2.59,12,36.0,0.99,No,-0.14000000000000012,3.0,True,Student Government,3,Yes
+1090,Economics,Freshman,2.62,2.89,12,31.0,0.81,No,0.27,2.5833333333333335,False,Undergrad Research,10,No
+1090,Economics,Freshman,2.62,2.89,12,31.0,0.81,No,0.27,2.5833333333333335,False,Community Service,2,No
+1090,Economics,Freshman,2.62,2.89,12,31.0,0.81,No,0.27,2.5833333333333335,False,Music Club,4,No
+1091,Economics,Sophomore,3.32,3.57,13,21.0,0.77,No,0.25,1.6153846153846154,False,Debate Team,13,No
+1091,Economics,Sophomore,3.32,3.57,13,21.0,0.77,No,0.25,1.6153846153846154,False,Student Government,9,No
+1091,Economics,Sophomore,3.32,3.57,13,21.0,0.77,No,0.25,1.6153846153846154,False,Music Club,8,Yes
+1093,Economics,Junior,2.5,3.88,18,38.0,0.88,No,1.38,2.111111111111111,False,Debate Team,1,No
+1093,Economics,Junior,2.5,3.88,18,38.0,0.88,No,1.38,2.111111111111111,False,Undergrad Research,6,Yes
+1093,Economics,Junior,2.5,3.88,18,38.0,0.88,No,1.38,2.111111111111111,False,Student Government,14,No
+1095,Computer Science,Senior,3.13,3.53,18,39.0,0.96,No,0.3999999999999999,2.1666666666666665,True,Music Club,11,No
+1096,Economics,Freshman,3.94,3.6,15,10.0,0.86,Yes,-0.33999999999999986,0.6666666666666666,False,Intramural Sports,4,No
+1096,Economics,Freshman,3.94,3.6,15,10.0,0.86,Yes,-0.33999999999999986,0.6666666666666666,False,Community Service,12,Yes
+1096,Economics,Freshman,3.94,3.6,15,10.0,0.86,Yes,-0.33999999999999986,0.6666666666666666,False,Debate Team,8,No
+1099,Biology,Freshman,2.88,3.46,18,11.0,0.93,No,0.5800000000000001,0.6111111111111112,True,Music Club,7,No
+1099,Biology,Freshman,2.88,3.46,18,11.0,0.93,No,0.5800000000000001,0.6111111111111112,True,Student Government,7,No
+1099,Biology,Freshman,2.88,3.46,18,11.0,0.93,No,0.5800000000000001,0.6111111111111112,True,Debate Team,2,Yes
+1102,Computer Science,Junior,3.03,3.18,18,38.0,0.76,Yes,0.15000000000000036,2.111111111111111,False,Intramural Sports,8,Yes
+1104,Biology,Senior,2.43,2.82,17,19.0,0.92,Yes,0.3899999999999997,1.1176470588235294,True,Student Government,6,No
+1104,Biology,Senior,2.43,2.82,17,19.0,0.92,Yes,0.3899999999999997,1.1176470588235294,True,Intramural Sports,9,No
+1104,Biology,Senior,2.43,2.82,17,19.0,0.92,Yes,0.3899999999999997,1.1176470588235294,True,Community Service,5,Yes
+1106,English,Senior,3.51,2.32,12,33.0,0.96,No,-1.19,2.75,True,Undergrad Research,11,No
+1106,English,Senior,3.51,2.32,12,33.0,0.96,No,-1.19,2.75,True,Community Service,2,No
+1106,English,Senior,3.51,2.32,12,33.0,0.96,No,-1.19,2.75,True,Debate Team,3,No
+1107,Economics,Sophomore,3.42,3.22,13,26.0,0.95,Yes,-0.19999999999999973,2.0,True,Debate Team,11,Yes
+1107,Economics,Sophomore,3.42,3.22,13,26.0,0.95,Yes,-0.19999999999999973,2.0,True,Music Club,15,No
+1107,Economics,Sophomore,3.42,3.22,13,26.0,0.95,Yes,-0.19999999999999973,2.0,True,Community Service,1,No
+1108,Psychology,Freshman,3.49,4.0,12,8.0,0.9,Yes,0.5099999999999998,0.6666666666666666,True,Intramural Sports,6,No
+1109,Economics,Sophomore,2.76,2.79,15,24.0,0.97,No,0.03000000000000025,1.6,True,Intramural Sports,7,Yes
+1109,Economics,Sophomore,2.76,2.79,15,24.0,0.97,No,0.03000000000000025,1.6,True,Student Government,3,No
+1111,Computer Science,Sophomore,2.98,3.77,14,40.0,0.78,No,0.79,2.857142857142857,False,Student Government,13,Yes
+1111,Computer Science,Sophomore,2.98,3.77,14,40.0,0.78,No,0.79,2.857142857142857,False,Debate Team,13,No
+1112,Economics,Sophomore,2.22,3.01,13,8.0,0.82,No,0.7899999999999996,0.6153846153846154,False,Music Club,15,No
+1112,Economics,Sophomore,2.22,3.01,13,8.0,0.82,No,0.7899999999999996,0.6153846153846154,False,Debate Team,9,Yes
+1112,Economics,Sophomore,2.22,3.01,13,8.0,0.82,No,0.7899999999999996,0.6153846153846154,False,Intramural Sports,14,No
+1115,Computer Science,Sophomore,3.74,3.88,13,16.0,0.98,No,0.13999999999999968,1.2307692307692308,True,Student Government,1,Yes
+1119,Computer Science,Junior,3.09,3.16,12,5.0,0.98,No,0.07000000000000028,0.4166666666666667,True,Music Club,14,No
+1122,Psychology,Sophomore,2.77,2.62,16,22.0,0.76,No,-0.1499999999999999,1.375,False,Debate Team,2,No
+1122,Psychology,Sophomore,2.77,2.62,16,22.0,0.76,No,-0.1499999999999999,1.375,False,Music Club,9,Yes
+1122,Psychology,Sophomore,2.77,2.62,16,22.0,0.76,No,-0.1499999999999999,1.375,False,Undergrad Research,1,No
+1123,English,Junior,2.92,3.53,17,18.0,0.79,No,0.6099999999999999,1.0588235294117647,False,Intramural Sports,11,No
+1123,English,Junior,2.92,3.53,17,18.0,0.79,No,0.6099999999999999,1.0588235294117647,False,Undergrad Research,2,No
+1124,Economics,Junior,2.81,2.6,13,33.0,1.0,No,-0.20999999999999996,2.5384615384615383,True,Undergrad Research,2,Yes
+1125,Computer Science,Sophomore,3.77,3.09,18,16.0,0.99,Yes,-0.6800000000000002,0.8888888888888888,True,Intramural Sports,10,No
+1125,Computer Science,Sophomore,3.77,3.09,18,16.0,0.99,Yes,-0.6800000000000002,0.8888888888888888,True,Undergrad Research,10,No
+1125,Computer Science,Sophomore,3.77,3.09,18,16.0,0.99,Yes,-0.6800000000000002,0.8888888888888888,True,Community Service,7,Yes
+1126,Psychology,Sophomore,2.92,3.02,17,40.0,0.75,Yes,0.10000000000000009,2.3529411764705883,False,Student Government,15,No
+1126,Psychology,Sophomore,2.92,3.02,17,40.0,0.75,Yes,0.10000000000000009,2.3529411764705883,False,Debate Team,11,No
+1127,English,Sophomore,3.14,3.46,18,39.0,0.99,No,0.31999999999999984,2.1666666666666665,True,Music Club,4,No
+1127,English,Sophomore,3.14,3.46,18,39.0,0.99,No,0.31999999999999984,2.1666666666666665,True,Debate Team,4,Yes
+1127,English,Sophomore,3.14,3.46,18,39.0,0.99,No,0.31999999999999984,2.1666666666666665,True,Student Government,2,Yes
+1129,English,Senior,3.08,3.68,18,11.0,0.97,No,0.6000000000000001,0.6111111111111112,True,Music Club,2,No
+1130,English,Freshman,2.91,3.47,12,33.0,0.86,Yes,0.56,2.75,False,Intramural Sports,6,Yes
+1130,English,Freshman,2.91,3.47,12,33.0,0.86,Yes,0.56,2.75,False,Undergrad Research,10,No
+1133,Psychology,Sophomore,2.66,3.07,14,10.0,0.92,No,0.4099999999999997,0.7142857142857143,True,Intramural Sports,4,Yes
+1133,Psychology,Sophomore,2.66,3.07,14,10.0,0.92,No,0.4099999999999997,0.7142857142857143,True,Community Service,2,No
+1134,English,Senior,2.98,3.01,18,19.0,0.78,Yes,0.029999999999999805,1.0555555555555556,False,Music Club,1,Yes
+1134,English,Senior,2.98,3.01,18,19.0,0.78,Yes,0.029999999999999805,1.0555555555555556,False,Debate Team,9,Yes
+1136,Economics,Freshman,2.66,3.03,13,15.0,0.83,No,0.36999999999999966,1.1538461538461537,False,Debate Team,15,Yes
+1136,Economics,Freshman,2.66,3.03,13,15.0,0.83,No,0.36999999999999966,1.1538461538461537,False,Student Government,3,No
+1137,Psychology,Sophomore,3.07,3.01,18,27.0,0.93,No,-0.06000000000000005,1.5,True,Undergrad Research,11,No
+1140,English,Junior,2.6,2.91,18,38.0,0.99,Yes,0.31000000000000005,2.111111111111111,True,Undergrad Research,4,No
+1141,Computer Science,Sophomore,2.94,2.57,14,33.0,0.77,No,-0.3700000000000001,2.357142857142857,False,Music Club,9,Yes
+1141,Computer Science,Sophomore,2.94,2.57,14,33.0,0.77,No,-0.3700000000000001,2.357142857142857,False,Intramural Sports,1,Yes
+1143,Psychology,Senior,3.87,2.88,14,21.0,0.86,Yes,-0.9900000000000002,1.5,False,Undergrad Research,1,Yes
+1143,Psychology,Senior,3.87,2.88,14,21.0,0.86,Yes,-0.9900000000000002,1.5,False,Student Government,9,No
+1143,Psychology,Senior,3.87,2.88,14,21.0,0.86,Yes,-0.9900000000000002,1.5,False,Music Club,10,No
+1144,Psychology,Freshman,2.51,3.46,13,39.0,0.97,Yes,0.9500000000000002,3.0,True,Undergrad Research,6,No
+1144,Psychology,Freshman,2.51,3.46,13,39.0,0.97,Yes,0.9500000000000002,3.0,True,Student Government,1,No
+1144,Psychology,Freshman,2.51,3.46,13,39.0,0.97,Yes,0.9500000000000002,3.0,True,Music Club,11,No
+1145,Psychology,Senior,3.26,3.39,18,17.0,0.79,Yes,0.13000000000000034,0.9444444444444444,False,Intramural Sports,3,No
+1145,Psychology,Senior,3.26,3.39,18,17.0,0.79,Yes,0.13000000000000034,0.9444444444444444,False,Undergrad Research,5,No
+1146,Psychology,Sophomore,3.61,3.73,12,19.0,0.92,Yes,0.1200000000000001,1.5833333333333333,True,Debate Team,12,No
+1147,Psychology,Junior,3.08,3.12,17,33.0,0.96,Yes,0.040000000000000036,1.9411764705882353,True,Music Club,4,No
+1147,Psychology,Junior,3.08,3.12,17,33.0,0.96,Yes,0.040000000000000036,1.9411764705882353,True,Community Service,9,No
+1147,Psychology,Junior,3.08,3.12,17,33.0,0.96,Yes,0.040000000000000036,1.9411764705882353,True,Student Government,3,No
+1150,Psychology,Freshman,3.81,2.09,15,36.0,0.87,No,-1.7200000000000002,2.4,False,Music Club,1,No
+1152,Computer Science,Freshman,3.77,3.51,16,18.0,0.97,Yes,-0.26000000000000023,1.125,True,Music Club,9,Yes
+1152,Computer Science,Freshman,3.77,3.51,16,18.0,0.97,Yes,-0.26000000000000023,1.125,True,Debate Team,4,Yes
+1154,Computer Science,Senior,3.69,2.59,14,26.0,0.76,No,-1.1,1.8571428571428572,False,Student Government,7,Yes
+1155,Economics,Sophomore,3.29,3.62,16,15.0,0.98,Yes,0.33000000000000007,0.9375,True,Undergrad Research,4,Yes
+1155,Economics,Sophomore,3.29,3.62,16,15.0,0.98,Yes,0.33000000000000007,0.9375,True,Student Government,15,No
+1156,Computer Science,Senior,3.01,2.92,14,31.0,0.92,No,-0.08999999999999986,2.2142857142857144,True,Intramural Sports,14,Yes
+1156,Computer Science,Senior,3.01,2.92,14,31.0,0.92,No,-0.08999999999999986,2.2142857142857144,True,Debate Team,2,Yes
+1159,Computer Science,Junior,3.27,3.23,18,32.0,0.91,No,-0.040000000000000036,1.7777777777777777,True,Intramural Sports,11,No
+1160,Economics,Junior,3.52,2.61,15,33.0,0.85,Yes,-0.9100000000000001,2.2,False,Intramural Sports,14,No
+1161,Economics,Junior,3.57,3.19,18,25.0,0.91,Yes,-0.3799999999999999,1.3888888888888888,True,Student Government,10,No
+1161,Economics,Junior,3.57,3.19,18,25.0,0.91,Yes,-0.3799999999999999,1.3888888888888888,True,Intramural Sports,15,No
+1161,Economics,Junior,3.57,3.19,18,25.0,0.91,Yes,-0.3799999999999999,1.3888888888888888,True,Undergrad Research,11,Yes
+1163,English,Sophomore,2.66,3.64,12,24.0,0.91,No,0.98,2.0,True,Debate Team,14,Yes
+1165,Economics,Senior,2.94,2.66,16,23.0,0.76,No,-0.2799999999999998,1.4375,False,Student Government,14,No
+1165,Economics,Senior,2.94,2.66,16,23.0,0.76,No,-0.2799999999999998,1.4375,False,Community Service,9,Yes
+1165,Economics,Senior,2.94,2.66,16,23.0,0.76,No,-0.2799999999999998,1.4375,False,Intramural Sports,11,No
+1166,Biology,Junior,2.89,3.26,17,9.0,0.99,Yes,0.36999999999999966,0.5294117647058824,True,Community Service,1,No
+1168,Economics,Sophomore,2.93,2.75,16,5.0,0.97,No,-0.18000000000000016,0.3125,True,Student Government,11,No
+1171,Computer Science,Sophomore,3.2,2.97,16,39.0,0.93,Yes,-0.22999999999999998,2.4375,True,Undergrad Research,2,No
+1171,Computer Science,Sophomore,3.2,2.97,16,39.0,0.93,Yes,-0.22999999999999998,2.4375,True,Music Club,5,No
+1172,Computer Science,Junior,3.03,3.65,13,29.0,0.97,Yes,0.6200000000000001,2.230769230769231,True,Debate Team,2,No
+1172,Computer Science,Junior,3.03,3.65,13,29.0,0.97,Yes,0.6200000000000001,2.230769230769231,True,Music Club,6,No
+1172,Computer Science,Junior,3.03,3.65,13,29.0,0.97,Yes,0.6200000000000001,2.230769230769231,True,Undergrad Research,10,Yes
+1175,Psychology,Sophomore,3.57,3.63,13,22.0,0.92,Yes,0.06000000000000005,1.6923076923076923,True,Intramural Sports,4,No
+1175,Psychology,Sophomore,3.57,3.63,13,22.0,0.92,Yes,0.06000000000000005,1.6923076923076923,True,Music Club,7,Yes
+1176,Biology,Sophomore,2.97,3.04,18,19.0,0.95,No,0.06999999999999984,1.0555555555555556,True,Student Government,6,Yes
+1176,Biology,Sophomore,2.97,3.04,18,19.0,0.95,No,0.06999999999999984,1.0555555555555556,True,Debate Team,12,Yes
+1177,Economics,Sophomore,3.37,2.54,14,20.0,0.94,No,-0.8300000000000001,1.4285714285714286,True,Undergrad Research,7,No
+1177,Economics,Sophomore,3.37,2.54,14,20.0,0.94,No,-0.8300000000000001,1.4285714285714286,True,Debate Team,6,No
+1177,Economics,Sophomore,3.37,2.54,14,20.0,0.94,No,-0.8300000000000001,1.4285714285714286,True,Community Service,1,No
+1179,English,Freshman,2.16,3.29,13,12.0,0.86,No,1.13,0.9230769230769231,False,Music Club,5,Yes
+1179,English,Freshman,2.16,3.29,13,12.0,0.86,No,1.13,0.9230769230769231,False,Intramural Sports,5,No
+1179,English,Freshman,2.16,3.29,13,12.0,0.86,No,1.13,0.9230769230769231,False,Undergrad Research,12,No
+1182,Economics,Sophomore,3.69,4.0,18,33.0,0.89,No,0.31000000000000005,1.8333333333333333,False,Community Service,1,No
+1182,Economics,Sophomore,3.69,4.0,18,33.0,0.89,No,0.31000000000000005,1.8333333333333333,False,Student Government,12,No
+1183,Computer Science,Junior,3.28,3.84,16,12.0,0.75,No,0.56,0.75,False,Music Club,10,No
+1183,Computer Science,Junior,3.28,3.84,16,12.0,0.75,No,0.56,0.75,False,Undergrad Research,5,No
+1185,Biology,Junior,3.84,3.08,13,31.0,0.84,No,-0.7599999999999998,2.3846153846153846,False,Music Club,10,No
+1185,Biology,Junior,3.84,3.08,13,31.0,0.84,No,-0.7599999999999998,2.3846153846153846,False,Undergrad Research,9,No
+1186,Psychology,Senior,3.71,2.91,14,11.0,0.85,No,-0.7999999999999998,0.7857142857142857,False,Undergrad Research,14,No
+1186,Psychology,Senior,3.71,2.91,14,11.0,0.85,No,-0.7999999999999998,0.7857142857142857,False,Community Service,5,No
+1186,Psychology,Senior,3.71,2.91,14,11.0,0.85,No,-0.7999999999999998,0.7857142857142857,False,Debate Team,10,No
+1187,English,Freshman,2.85,3.24,14,7.0,0.92,Yes,0.3900000000000001,0.5,True,Intramural Sports,10,No
+1188,Computer Science,Freshman,3.25,3.13,18,33.0,0.85,Yes,-0.1200000000000001,1.8333333333333333,False,Debate Team,1,No
+1188,Computer Science,Freshman,3.25,3.13,18,33.0,0.85,Yes,-0.1200000000000001,1.8333333333333333,False,Community Service,13,No
+1188,Computer Science,Freshman,3.25,3.13,18,33.0,0.85,Yes,-0.1200000000000001,1.8333333333333333,False,Intramural Sports,3,No
+1189,Computer Science,Senior,3.34,3.41,17,28.0,0.86,No,0.07000000000000028,1.6470588235294117,False,Community Service,7,Yes
+1189,Computer Science,Senior,3.34,3.41,17,28.0,0.86,No,0.07000000000000028,1.6470588235294117,False,Music Club,6,No
+1192,English,Senior,3.16,3.25,17,19.0,0.81,No,0.08999999999999986,1.1176470588235294,False,Music Club,14,No
+1192,English,Senior,3.16,3.25,17,19.0,0.81,No,0.08999999999999986,1.1176470588235294,False,Debate Team,6,Yes
+1192,English,Senior,3.16,3.25,17,19.0,0.81,No,0.08999999999999986,1.1176470588235294,False,Undergrad Research,15,No
+1193,Psychology,Senior,3.29,3.1,12,29.0,0.77,Yes,-0.18999999999999995,2.4166666666666665,False,Community Service,13,No
+1193,Psychology,Senior,3.29,3.1,12,29.0,0.77,Yes,-0.18999999999999995,2.4166666666666665,False,Debate Team,4,Yes
+1193,Psychology,Senior,3.29,3.1,12,29.0,0.77,Yes,-0.18999999999999995,2.4166666666666665,False,Intramural Sports,7,No
+1194,Biology,Freshman,2.45,3.61,16,34.0,0.9,No,1.1599999999999997,2.125,True,Debate Team,7,Yes
+1194,Biology,Freshman,2.45,3.61,16,34.0,0.9,No,1.1599999999999997,2.125,True,Intramural Sports,2,No
+1194,Biology,Freshman,2.45,3.61,16,34.0,0.9,No,1.1599999999999997,2.125,True,Student Government,12,No
+1195,Psychology,Junior,3.59,2.55,17,18.0,0.92,No,-1.04,1.0588235294117647,True,Music Club,6,No
+1195,Psychology,Junior,3.59,2.55,17,18.0,0.92,No,-1.04,1.0588235294117647,True,Debate Team,14,Yes
+1196,Economics,Senior,3.46,3.34,16,11.0,0.9,Yes,-0.1200000000000001,0.6875,True,Student Government,11,No
+1196,Economics,Senior,3.46,3.34,16,11.0,0.9,Yes,-0.1200000000000001,0.6875,True,Intramural Sports,3,Yes
+1197,Economics,Sophomore,3.68,3.21,15,21.0,0.87,Yes,-0.4700000000000002,1.4,False,Intramural Sports,10,No
+1197,Economics,Sophomore,3.68,3.21,15,21.0,0.87,Yes,-0.4700000000000002,1.4,False,Debate Team,3,Yes
+1198,Computer Science,Freshman,3.14,2.64,12,24.0,0.84,No,-0.5,2.0,False,Student Government,9,Yes
+1200,Psychology,Senior,3.01,3.6,18,13.0,0.88,No,0.5900000000000003,0.7222222222222222,False,Community Service,11,Yes
+1202,Economics,Junior,2.96,3.27,13,6.0,0.76,Yes,0.31000000000000005,0.46153846153846156,False,Community Service,7,Yes
+1202,Economics,Junior,2.96,3.27,13,6.0,0.76,Yes,0.31000000000000005,0.46153846153846156,False,Music Club,15,Yes
+1202,Economics,Junior,2.96,3.27,13,6.0,0.76,Yes,0.31000000000000005,0.46153846153846156,False,Intramural Sports,15,No
+1203,Computer Science,Junior,2.47,3.89,17,28.0,0.84,Yes,1.42,1.6470588235294117,False,Community Service,8,No
+1203,Computer Science,Junior,2.47,3.89,17,28.0,0.84,Yes,1.42,1.6470588235294117,False,Debate Team,13,No
+1203,Computer Science,Junior,2.47,3.89,17,28.0,0.84,Yes,1.42,1.6470588235294117,False,Intramural Sports,1,No
+1204,Computer Science,Junior,3.57,3.38,12,12.0,0.85,No,-0.18999999999999995,1.0,False,Debate Team,3,No
+1207,English,Senior,2.49,3.09,15,21.0,0.88,No,0.5999999999999996,1.4,False,Intramural Sports,8,No
+1207,English,Senior,2.49,3.09,15,21.0,0.88,No,0.5999999999999996,1.4,False,Debate Team,1,Yes
+1207,English,Senior,2.49,3.09,15,21.0,0.88,No,0.5999999999999996,1.4,False,Community Service,2,No
+1209,Psychology,Sophomore,2.84,2.96,12,25.0,0.94,No,0.1200000000000001,2.0833333333333335,True,Student Government,6,No
+1212,Psychology,Sophomore,3.87,3.51,14,22.0,0.99,Yes,-0.3600000000000003,1.5714285714285714,True,Intramural Sports,10,No
+1212,Psychology,Sophomore,3.87,3.51,14,22.0,0.99,Yes,-0.3600000000000003,1.5714285714285714,True,Community Service,7,No
+1212,Psychology,Sophomore,3.87,3.51,14,22.0,0.99,Yes,-0.3600000000000003,1.5714285714285714,True,Music Club,7,No
+1213,Economics,Junior,3.22,3.33,16,35.0,0.75,No,0.10999999999999988,2.1875,False,Intramural Sports,1,No
+1213,Economics,Junior,3.22,3.33,16,35.0,0.75,No,0.10999999999999988,2.1875,False,Undergrad Research,11,Yes
+1214,Biology,Freshman,3.63,3.55,17,36.0,0.8,Yes,-0.08000000000000007,2.1176470588235294,False,Debate Team,13,No
+1214,Biology,Freshman,3.63,3.55,17,36.0,0.8,Yes,-0.08000000000000007,2.1176470588235294,False,Intramural Sports,13,No
+1214,Biology,Freshman,3.63,3.55,17,36.0,0.8,Yes,-0.08000000000000007,2.1176470588235294,False,Undergrad Research,10,Yes
+1215,Economics,Senior,3.23,3.41,17,15.0,0.75,Yes,0.18000000000000016,0.8823529411764706,False,Student Government,9,No
+1215,Economics,Senior,3.23,3.41,17,15.0,0.75,Yes,0.18000000000000016,0.8823529411764706,False,Undergrad Research,9,No
+1215,Economics,Senior,3.23,3.41,17,15.0,0.75,Yes,0.18000000000000016,0.8823529411764706,False,Intramural Sports,1,No
+1219,Computer Science,Sophomore,2.69,3.02,17,15.0,0.98,Yes,0.33000000000000007,0.8823529411764706,True,Community Service,14,No
+1220,Computer Science,Junior,2.68,3.64,16,26.0,0.77,No,0.96,1.625,False,Debate Team,3,No
+1221,Biology,Sophomore,3.22,3.67,12,28.0,0.98,No,0.44999999999999973,2.3333333333333335,True,Student Government,13,No
+1222,Computer Science,Freshman,3.0,2.93,12,21.0,0.84,No,-0.06999999999999984,1.75,False,Community Service,11,Yes
+1222,Computer Science,Freshman,3.0,2.93,12,21.0,0.84,No,-0.06999999999999984,1.75,False,Undergrad Research,14,No
+1222,Computer Science,Freshman,3.0,2.93,12,21.0,0.84,No,-0.06999999999999984,1.75,False,Debate Team,2,No
+1223,Economics,Sophomore,2.34,3.58,16,16.0,0.78,No,1.2400000000000002,1.0,False,Student Government,2,Yes
+1223,Economics,Sophomore,2.34,3.58,16,16.0,0.78,No,1.2400000000000002,1.0,False,Intramural Sports,6,No
+1223,Economics,Sophomore,2.34,3.58,16,16.0,0.78,No,1.2400000000000002,1.0,False,Community Service,15,No
+1224,Psychology,Freshman,3.41,3.06,17,36.0,0.87,No,-0.3500000000000001,2.1176470588235294,False,Music Club,4,No
+1224,Psychology,Freshman,3.41,3.06,17,36.0,0.87,No,-0.3500000000000001,2.1176470588235294,False,Student Government,4,No
+1224,Psychology,Freshman,3.41,3.06,17,36.0,0.87,No,-0.3500000000000001,2.1176470588235294,False,Community Service,13,No
+1225,Computer Science,Sophomore,2.71,3.06,18,19.0,0.81,Yes,0.3500000000000001,1.0555555555555556,False,Student Government,13,No
+1225,Computer Science,Sophomore,2.71,3.06,18,19.0,0.81,Yes,0.3500000000000001,1.0555555555555556,False,Undergrad Research,15,Yes
+1225,Computer Science,Sophomore,2.71,3.06,18,19.0,0.81,Yes,0.3500000000000001,1.0555555555555556,False,Music Club,13,No
+1227,Biology,Junior,3.18,3.31,18,26.0,0.83,No,0.1299999999999999,1.4444444444444444,False,Intramural Sports,14,No
+1227,Biology,Junior,3.18,3.31,18,26.0,0.83,No,0.1299999999999999,1.4444444444444444,False,Undergrad Research,12,No
+1227,Biology,Junior,3.18,3.31,18,26.0,0.83,No,0.1299999999999999,1.4444444444444444,False,Community Service,10,No
+1229,Economics,Senior,3.25,2.67,12,24.0,0.88,No,-0.5800000000000001,2.0,False,Debate Team,15,No
+1229,Economics,Senior,3.25,2.67,12,24.0,0.88,No,-0.5800000000000001,2.0,False,Intramural Sports,13,Yes
+1229,Economics,Senior,3.25,2.67,12,24.0,0.88,No,-0.5800000000000001,2.0,False,Community Service,9,No
+1232,Computer Science,Sophomore,2.78,2.09,14,36.0,0.93,No,-0.69,2.5714285714285716,True,Music Club,5,No
+1232,Computer Science,Sophomore,2.78,2.09,14,36.0,0.93,No,-0.69,2.5714285714285716,True,Debate Team,14,No
+1232,Computer Science,Sophomore,2.78,2.09,14,36.0,0.93,No,-0.69,2.5714285714285716,True,Student Government,10,No
+1234,Psychology,Freshman,2.89,3.62,16,6.0,0.85,No,0.73,0.375,False,Intramural Sports,3,No
+1234,Psychology,Freshman,2.89,3.62,16,6.0,0.85,No,0.73,0.375,False,Community Service,12,No
+1234,Psychology,Freshman,2.89,3.62,16,6.0,0.85,No,0.73,0.375,False,Debate Team,7,No
+1236,Biology,Sophomore,3.33,3.01,16,37.0,0.8,No,-0.3200000000000003,2.3125,False,Community Service,15,No
+1236,Biology,Sophomore,3.33,3.01,16,37.0,0.8,No,-0.3200000000000003,2.3125,False,Undergrad Research,13,Yes
+1237,Computer Science,Senior,3.19,2.8,14,17.0,0.92,No,-0.3900000000000001,1.2142857142857142,True,Community Service,7,No
+1238,Psychology,Sophomore,3.22,3.94,15,34.0,0.8,Yes,0.7199999999999998,2.2666666666666666,False,Undergrad Research,5,No
+1238,Psychology,Sophomore,3.22,3.94,15,34.0,0.8,Yes,0.7199999999999998,2.2666666666666666,False,Community Service,4,No
+1239,English,Sophomore,3.28,3.64,17,37.0,0.88,No,0.3600000000000003,2.176470588235294,False,Community Service,5,No
+1239,English,Sophomore,3.28,3.64,17,37.0,0.88,No,0.3600000000000003,2.176470588235294,False,Undergrad Research,10,No
+1241,Economics,Freshman,3.1,3.25,18,30.0,0.78,No,0.1499999999999999,1.6666666666666667,False,Student Government,13,No
+1241,Economics,Freshman,3.1,3.25,18,30.0,0.78,No,0.1499999999999999,1.6666666666666667,False,Music Club,6,No
+1241,Economics,Freshman,3.1,3.25,18,30.0,0.78,No,0.1499999999999999,1.6666666666666667,False,Debate Team,8,No
+1242,Computer Science,Senior,3.25,3.72,17,26.0,0.89,No,0.4700000000000002,1.5294117647058822,False,Intramural Sports,8,No
+1242,Computer Science,Senior,3.25,3.72,17,26.0,0.89,No,0.4700000000000002,1.5294117647058822,False,Student Government,2,No
+1248,Computer Science,Junior,3.11,3.19,18,7.0,0.76,Yes,0.08000000000000007,0.3888888888888889,False,Community Service,1,No
+1250,Economics,Junior,3.43,2.84,15,13.0,0.99,No,-0.5900000000000003,0.8666666666666667,True,Community Service,2,No
